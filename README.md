@@ -48,10 +48,10 @@ My work spans **ASIC validation**, **FPGA acceleration**, **embedded systems**, 
 > Every complex system can be broken down and improved.  
 > Verification is a starting point for innovation.  
 > Combining hardware, software, and control creates resilient systems.  
-> In the smallest details—reliability lives.
+> In the smallest details, reliability lives.
 
 ---
 
 📫 **Let’s connect!**  
-If you're building robust systems, working with embedded intelligence, or solving cloud-hardware challenges—I'd love to collaborate or chat.
+If you're building robust systems, working with embedded intelligence, or solving cloud-hardware challenges, I'd love to collaborate or chat.
 
