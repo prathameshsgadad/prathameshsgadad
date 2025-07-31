@@ -1,4 +1,4 @@
-<img src="https://github.com/prathameshsgadad/prathameshsgadad/blob/main/your_banner_image.png" alt="banner" style="width:100%;"/>
+<img src="https://github.com/prathameshsgadad/prathameshsgadad/blob/main/banner.png" alt="banner" style="width:100%;"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathameshsgadad/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
